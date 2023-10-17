@@ -1,3 +1,3 @@
 # Random-Password-Generator
 
-Created
+Created Using HTML, CSS, JavaScript
